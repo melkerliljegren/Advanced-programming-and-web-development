@@ -16,9 +16,8 @@ The course focuses on developing advanced skills in Python, web development, and
 
 ```text
 /
-├── Week 1/
-│   ├── routes.py           # Flask API basics
-│   └── README.md
+├── Week 1/          
+│   └── routes.py    # Flask API basics
 ├── Week 2/
 │   ├── safe_divide.py      # Example: test-driven development
 │   └── test_safe_divide.py
