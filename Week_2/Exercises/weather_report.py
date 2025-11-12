@@ -1,4 +1,4 @@
-from weather import get_weather
+from Week_2.Exercises.weather import get_weather
 
 
 def generate_report(city):

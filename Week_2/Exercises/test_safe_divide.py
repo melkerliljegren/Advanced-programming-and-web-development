@@ -1,5 +1,5 @@
 import pytest
-from safe_divide import safe_divide
+from Week_2.Exercises.safe_divide import safe_divide
 
 
 def test_divide_normal():

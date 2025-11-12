@@ -1,5 +1,5 @@
 import pytest
-from tdd_practice import add_positive_numbers
+from Week_2.Exercises.tdd_practice import add_positive_numbers
 
 
 def test_add_both_positive():
