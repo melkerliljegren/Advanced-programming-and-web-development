@@ -1,4 +1,4 @@
-from Week_2.Exercises.greetings import say_hello
+from greetings import say_hello
 
 
 def test_say_hello():

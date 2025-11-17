@@ -1,4 +1,4 @@
-from Week_2.Exercises.math_utils import double
+from math_utils import double
 
 
 def test_double_positive():

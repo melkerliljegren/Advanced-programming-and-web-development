@@ -1,4 +1,4 @@
-from Week_2.Exercises.weather_report import generate_report
+from weather_report import generate_report
 
 
 def test_generate_report(monkeypatch):
